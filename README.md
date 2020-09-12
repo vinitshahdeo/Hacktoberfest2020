@@ -67,22 +67,6 @@ I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)*
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/7)
 
-```js
-
-
-  _    _                           _    _            _    _               _ 
- | |  | |                         | |  | |          | |  (_)             | |
- | |__| | __ _ _ __  _ __  _   _  | |__| | __ _  ___| | ___ _ __   __ _  | |
- |  __  |/ _` | '_ \| '_ \| | | | |  __  |/ _` |/ __| |/ / | '_ \ / _` | | |
- | |  | | (_| | |_) | |_) | |_| | | |  | | (_| | (__|   <| | | | | (_| | |_|
- |_|  |_|\__,_| .__/| .__/ \__, | |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, | (_)
-              | |   | |     __/ |                                  __/ |    
-              |_|   |_|    |___/                                  |___/     
-
-
-```
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo/) [![powered by water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo/)
 
 ---------
 
