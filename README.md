@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h1 align="center"> <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> 2020</h1>
+<h1 align="center"> <a href="https://vinitshahdeo.github.io/Hacktoberfest2020/">Hacktoberfest</a> 2020</h1>
 
 <!---
 <p align="center">
@@ -102,4 +102,3 @@ if (isAwesome) {
 
 -----------
 
-[![Hacktoberfest](./hacktoberfest2020-banner.png)](https://vinitshahdeo.github.io/Hacktoberfest2020/)
