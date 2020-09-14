@@ -101,3 +101,5 @@ if (isAwesome) {
 ```
 
 -----------
+
+[![Hacktoberfest](./hacktoberfest2020-banner.png)](https://vinitshahdeo.github.io/Hacktoberfest2020/)
