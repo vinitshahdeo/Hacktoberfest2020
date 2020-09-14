@@ -29,10 +29,6 @@ Join the open source celebration and leave a mark on the open source world!
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
 
-> Recommended repo for beginners
-
-[![inspirational-quotes](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes) [![PortScanner](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner)](https://github.com/vinitshahdeo/PortScanner) [![SimpleBio](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=SimpleBio)](https://github.com/vinitshahdeo/SimpleBio) [![HBD](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=HBD)](https://github.com/vinitshahdeo/HBD) 
-
 | Repository  | Issues  | Pull Requests  | Forks |
 |---|---|---|---|
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/vinitshahdeo/inspirational-quotes/network) |
@@ -49,6 +45,10 @@ Join the open source celebration and leave a mark on the open source world!
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/TwitterSentimentAnalysis?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/TwitterSentimentAnalysis?style=social&logo=github)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/TwitterSentimentAnalysis?style=flat-square&logo=git)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/network) |
 | [PortScanner](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/PortScanner/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=social&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/PortScanner?style=flat-square&logo=git)](https://github.com/vinitshahdeo/PortScanner/network) |
 | [Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=social&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Water-Monitoring-System?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Water-Monitoring-System/network) |
+
+> Recommended repo for beginners
+
+[![inspirational-quotes](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes) [![PortScanner](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner)](https://github.com/vinitshahdeo/PortScanner) [![SimpleBio](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=SimpleBio)](https://github.com/vinitshahdeo/SimpleBio) [![HBD](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=HBD)](https://github.com/vinitshahdeo/HBD) 
 
 
 #### Welcome to the Open Source World! Please find the issues below:
