@@ -1,3 +1,5 @@
+<a href="https://hacktoberfest.digitalocean.com/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%"></a>
+
 # [Hacktoberfest](https://hacktoberfest.digitalocean.com) 2020
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
