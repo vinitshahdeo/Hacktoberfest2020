@@ -8,7 +8,7 @@ Join the open source celebration and leave a mark on the open source world!
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
-> I've opened few issues for beginners. Take up any issue and send your first PR!
+> I've opened few issues for beginners. Take up any issue and send your first PR! **Many beginner-friendly issues on way - [Star](https://github.com/vinitshahdeo/Hacktoberfest2020/stargazers)(watch) this repo for updates.**
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
 
