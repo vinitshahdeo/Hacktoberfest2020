@@ -1,6 +1,21 @@
-<a href="https://hacktoberfest.digitalocean.com/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%"></a>
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%">
+    </a>
+</p>
 
-# [Hacktoberfest](https://hacktoberfest.digitalocean.com) 2020
+<h1 align="center"> <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> 2020</h1>
+
+<!---
+<p align="center">
+    <a href="https://github.com/vinitshahdeo/">
+        <img src="https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=flat" />
+    </a> 
+    <a href="https://twitter.com/Vinit_Shahdeo">
+        <img src="https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=flat" />
+    </a>
+</p>
+--->
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
