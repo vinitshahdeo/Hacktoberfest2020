@@ -29,6 +29,10 @@ Join the open source celebration and leave a mark on the open source world!
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
 
+> Recommended repo for beginners
+
+[![inspirational-quotes](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes) [![PortScanner](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner)](https://github.com/vinitshahdeo/PortScanner) [![SimpleBio](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=SimpleBio)](https://github.com/vinitshahdeo/SimpleBio) [![HBD](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=HBD)](https://github.com/vinitshahdeo/HBD) 
+
 | Repository  | Issues  | Pull Requests  | Forks |
 |---|---|---|---|
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/vinitshahdeo/inspirational-quotes/network) |
