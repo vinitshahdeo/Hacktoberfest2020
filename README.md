@@ -19,7 +19,7 @@
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
-Join the open source celebration and leave a mark on the open source world! 
+Join the open source celebration and leave a mark on the open source world! Read my **open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
 
