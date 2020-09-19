@@ -82,6 +82,10 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | HTML, CSS, JS |
 | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | React |
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | PHP |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Sort news on the basis of popularity and Date published](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/3)  | JavaScript |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [UI Improvements](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/5)  | CSS |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Add Date published in News Card](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/4)  | HTML, JavaScript |
+| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Union territories are missing from the Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/1)  | Node.js |
 
 #### [Click here](./PROJECTS.md) for the complete list of beginner-friendly repositories.
 
