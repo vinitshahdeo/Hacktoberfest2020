@@ -90,6 +90,28 @@ Join the open source celebration and leave a mark on the open source world! Read
 
 #### [Click here](./PROJECTS.md) for the complete list of beginner-friendly repositories. Give a shoutout to my `DEV` [article](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op). :heart: :hugs:
 
+```js
+
+   _____ _                 _              _        
+  / ____| |               | |            | |       
+ | (___ | |__   ___  _   _| |_ ___  _   _| |_ ___  
+  \___ \| '_ \ / _ \| | | | __/ _ \| | | | __/ __| 
+  ____) | | | | (_) | |_| | || (_) | |_| | |_\__ \ 
+ |_____/|_| |_|\___/ \__,_|\__\___/ \__,_|\__|___/ 
+                                       _           
+                                      | |          
+   __ _ _ __ ___   _ __ ___   ___  ___| |_         
+  / _` | '__/ _ \ | '_ ` _ \ / _ \/ __| __|        
+ | (_| | | |  __/ | | | | | | (_) \__ \ |_         
+  \__,_|_|  \___| |_| |_| |_|\___/|___/\__|        
+              | |                        | |       
+ __      _____| | ___ ___  _ __ ___   ___| |       
+ \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |       
+  \ V  V /  __/ | (_| (_) | | | | | |  __/_|       
+   \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)       
+                                                                                                      
+```
+
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
