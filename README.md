@@ -102,6 +102,10 @@ Join the open source celebration and leave a mark on the open source world! Read
 
 #### [Click here](./PROJECTS.md) for the complete list of beginner-friendly repositories. Give a shoutout to my `DEV` [article](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op). :heart: :hugs:
 
+> Check out below repos:
+
+[![covid19api](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=covid19api)](https://github.com/vinitshahdeo/covid19api) [![Hashtagify](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Hashtagify)](https://github.com/vinitshahdeo/Hashtagify/) [![COVID19](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=COVID19)](https://github.com/vinitshahdeo/COVID19) [![Water-Monitoring-System](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Water-Monitoring-System)](https://github.com/vinitshahdeo/Water-Monitoring-System)
+
 ```js
 
    _____ _                 _              _        
