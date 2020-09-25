@@ -99,6 +99,8 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | CSS |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | React |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | CSS |
+| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | GraphQL |
+| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | GraphQL |
 
 #### [Click here](./PROJECTS.md) for the complete list of beginner-friendly repositories. Give a shoutout to my `DEV` [article](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op). :heart: :hugs:
 
