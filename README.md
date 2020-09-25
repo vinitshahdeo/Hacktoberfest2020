@@ -96,6 +96,9 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Add Date published in News Card](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/4)  | HTML, JavaScript |
 | [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Union territories are missing from the Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/1)  | Node.js |
 | [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Just border of Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/2)  | Node.js |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | CSS |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | React |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | CSS |
 
 #### [Click here](./PROJECTS.md) for the complete list of beginner-friendly repositories. Give a shoutout to my `DEV` [article](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op). :heart: :hugs:
 
