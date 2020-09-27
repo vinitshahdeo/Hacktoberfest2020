@@ -99,11 +99,12 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | CSS |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | React |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | CSS |
-| [Water-Monitoring-System](https://github.com/vinitshahdeo/water-monitoring-system/) | [UI Enhancements](https://github.com/vinitshahdeo/water-monitoring-system/issues/2)  | HTML, CSS, JS |
-| [Water-Monitoring-System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | Markdown |
-| [Water-Monitoring-System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | Node.js, MongoDB |
-| [Water-Monitoring-System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | HTML, CSS, JS |
-| [Water-Monitoring-System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/covid19api/issues/6)  | Node.js |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [UI Enhancements](https://github.com/vinitshahdeo/water-monitoring-system/issues/2)  | HTML, CSS, JS |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | Markdown |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | Node.js, MongoDB |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | HTML, CSS, JS |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/covid19api/issues/6)  | Node.js |
+| [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | PHP, JavaScript |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | GraphQL |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | GraphQL |
 
