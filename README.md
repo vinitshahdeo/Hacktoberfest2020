@@ -103,7 +103,7 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | Markdown |
 | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | Node.js, MongoDB |
 | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | HTML, CSS, JS |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/covid19api/issues/6)  | Node.js |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/water-monitoring-system/issues/6)  | Node.js |
 | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | PHP, JavaScript |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | GraphQL |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | GraphQL |
