@@ -76,6 +76,7 @@ Join the open source celebration and leave a mark on the open source world! Read
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | JavaScript  |
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Test to avoid repetition of Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/120)  | JavaScript  |
 | [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | Python |
+| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [[Pie Chart] Graphical representation of the results](https://github.com/vinitshahdeo/jobtweets/issues/28)  | Python |
 | [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | HTML, CSS  |
 | [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | NodeJS  |
 | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | JavaScript |
