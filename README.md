@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%">
-    </a>
-</p>
+
 
 <h1 align="center"> <a href="https://vinitshahdeo.github.io/Hacktoberfest2020/">Hacktoberfest</a> 2020</h1>
 
