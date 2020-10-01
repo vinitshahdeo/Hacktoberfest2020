@@ -6,13 +6,6 @@
 
 <h1 align="center"> <a href="https://vinitshahdeo.github.io/Hacktoberfest2020/">Hacktoberfest</a> 2020</h1>
 
-<p align="center">
-    <a href="https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op">
-        <img src="https://img.shields.io/github/hacktoberfest/2020/vinitshahdeo/inspirational-quotes?logo=digitalocean&style=flat&logoColor=white" >
-    </a>
-</p>
-
-
 <!---
 <p align="center">
     <a href="https://github.com/vinitshahdeo/">
