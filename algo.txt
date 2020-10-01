@@ -1,0 +1,98 @@
+//Chopsticks game Algorithm
+
+start
+declare int user_lefthand=1, user_righthand=1, comp_lefthand=1, comp_righthand=1, counter=1
+start loop condition((user_lefthand==0 AND user_righthand==0) OR (comp_lefthand==0 AND comp_righthand==0))
+    print "Your left hand score"
+    print  user_lefthand
+    print "Your right hand score"
+    print user_righthand 
+    print "Computer left hand score"
+    print comp_lefthand
+    print "Computer right hand score"
+    print comp_righthand
+
+    print "Choose your turn. which hand would you use?"
+    input choice
+    if( choice==left)
+        print "to which hand of computer or your own hand"
+        if(choice2==left)
+            comp_lefthand=comp_lefthand+user_lefthand
+            if(comp_lefthand>=5)
+                comp_lefthand=0
+            print "Your left hand score"
+            print  user_lefthand
+            print "Your right hand score"
+            print user_righthand 
+            print "Computer left hand score"
+            print comp_lefthand
+            print "Computer right hand score"
+            print comp_righthand
+		counter+=1
+            
+
+        else if(choice2==right)
+            comp_righthand=comp_righthand+user_lefthand
+            if(comp_righthand>=5)
+                comp_righthand=0
+            print "Your left hand score"
+            print  user_lefthand
+            print "Your right hand score"
+            print user_righthand 
+            print "Computer left hand score"
+            print comp_lefthand
+            print "Computer right hand score"
+            print comp_righthand
+		counter+=1
+
+	else 
+	    if(counter>1)
+		user_righthand_=user_lefthand
+		counter+=1
+	
+	    else
+		print "cannot transfer in own hands in the first turn"
+    else
+        print "to which hand of computer or your own hand"
+        if(choice2==left)
+            comp_lefthand=comp_lefthand+user_lefthand
+            if(comp_lefthand>=5)
+                comp_lefthand=0
+            print "Your left hand score"
+            print  user_lefthand
+            print "Your right hand score"
+            print user_righthand 
+            print "Computer left hand score"
+            print comp_lefthand
+            print "Computer right hand score"
+            print comp_righthand
+		counter+=1
+            
+
+        else if(choice2=right)
+            comp_righthand=comp_righthand+user_lefthand
+            if(comp_righthand>=5)
+                comp_righthand=0
+            print "Your left hand score"
+            print  user_lefthand
+            print "Your right hand score"
+            print user_righthand 
+            print "Computer left hand score"
+            print comp_lefthand
+            print "Computer right hand score"
+            print comp_righthand
+		counter+=1
+
+	else
+		if(counter>1)
+		user_righthand_=user_lefthand
+		counter+=1
+	
+	    else
+		print "cannot transfer in own hands in the first turn"	   
+
+end loop            
+ if(user_righthand==0 AND user_lefthand==0)
+    print "you loose"
+ else
+    print "you win"
