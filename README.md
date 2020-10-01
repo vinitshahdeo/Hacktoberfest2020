@@ -72,6 +72,7 @@ Join the open source celebration and leave a mark on the open source world! Read
 
 | Repository| Link to Issue  | Language  |
 |---|---|---|
+| [Learn-Kotlin](https://github.com/arysetya/Belajar-Kotlin.git) | [Learn Kotlin for beginer](https://github.com/arysetya/Belajar-Kotlin.git)  | Kotlin  |
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | JavaScript  |
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | JavaScript  |
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Test to avoid repetition of Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/120)  | JavaScript  |
