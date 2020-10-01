@@ -30,7 +30,7 @@ Join the open source celebration and leave a mark on the open source world! Read
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
 
-**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four Pull Requests (PRs) between October 1-31 to earn a free t-shirt.**
 
 > I've opened few issues for beginners. Take up any issue and send your first PR! **Many beginner-friendly issues on way - [Star](https://github.com/vinitshahdeo/Hacktoberfest2020/stargazers)(watch) this repo for updates.** Read my open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/).
 
