@@ -24,7 +24,7 @@
 </p>
 --->
 
-### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
+### It’s that best time of year again when we come together to support and celebrate the open source technologies we use and love.
 
 Join the open source celebration and leave a mark on the open source world! Read my **open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**.
 
