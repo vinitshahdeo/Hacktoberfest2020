@@ -17,7 +17,7 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the community
+* Focusing on what is best for the community and contributing continuously
 * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
