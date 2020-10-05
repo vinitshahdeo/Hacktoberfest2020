@@ -152,7 +152,8 @@ I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)*
 ```javascript
 
 if (isAwesome) {
-    // thanks in advance :p
+    // #Thanks in Advance :P
+    
     starThisRepository();
 }
 
