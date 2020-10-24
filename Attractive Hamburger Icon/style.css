@@ -1,0 +1,101 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#6c5ce7;
+
+}
+
+#menu{
+
+    width: 35px;
+    height: 30px;
+    margin: 30px 0px 20px 20px;
+    cursor: pointer;
+}
+
+.bar{
+    width: 100%;
+    height: 5px;
+    background-color: #E94498;
+    display: block;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+#bar1{
+    transform: translateY(-4px);
+
+}
+
+#bar3{
+    transform: translateY(4px);
+    
+}
+.nav li a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav li a:hover{
+    font-weight: bold;
+}
+.nav li{
+    list-style: none;
+    padding: 16px 0;
+}
+
+.nav{
+    padding: 0;
+    margin: 0 2px;
+    transition: 0.3s ease;
+    display: none;
+}
+.menu-bg , #menu-bar{
+    top: 0;
+    left: 0;
+    position: absolute;
+
+}
+
+.menu-bg{
+    z-index: 1;
+    height: 0px;
+    width: 0px;
+    background: radial-gradient(circle,#E94498,#B81568);
+    margin: 30px 0px 20px 20px;
+    border-radius: 50%;
+    transition: 0.3s ease;
+    
+}
+
+#menu-bar{
+    z-index: 2;
+}
+
+.change-bg{
+    width: 550px;
+    height: 540px;
+    transform: translate(-60%,-30%);
+}
+
+.change{
+    display: block;
+}
+
+.change .bar{
+    background-color: white;
+
+}
+
+.change #bar1{
+    transform: translateY(4px) rotateZ(-45deg);
+    
+}
+
+.change #bar3{
+    transform: translateY(-6px) rotateZ(45deg);
+    
+}
+
+.change #bar2{
+    opacity: 0;
+}
